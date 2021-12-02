@@ -1,7 +1,6 @@
 
-Hi there 👋 <h1 align="center">I'm Priyanka Singh</h1>
-
-<h2 align="center">A passionate Software Engineer from India</h2>
+Hi there 👋 
+I am Priyanka SIngh. A passionate Software Engineer from India<br>
 
 🔭 I’m currently working on MERN projects<br>
 🌱 I’m currently learning Data Structures and Algorithms<br>
