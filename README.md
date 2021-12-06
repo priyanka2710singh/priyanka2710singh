@@ -1,7 +1,7 @@
 
-#Hi there 👋 <br>
+Hi there 👋 <br>
 
-#I am Priyanka Singh.👧 <br> A passionate Software Engineer💻 from India<br>
+I am Priyanka Singh.👧 <br> A passionate Software Engineer💻 from India<br>
 
 🔭 I’m currently working on MERN projects<br>
 🌱 I’m currently learning Data Structures and Algorithms<br>
